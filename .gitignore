@@ -1,0 +1,35 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pytest_cache/
+.mypy_cache/
+
+# Envs
+.venv/
+venv/
+env/
+
+# Mac/OS
+.DS_Store
+
+# VS Code
+.vscode/*
+!.vscode/tasks.json
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+nohup.out
+
+# Local env files
+.env
+.env.*
+!.env.example
+.vscode/tasks.json
+.env
